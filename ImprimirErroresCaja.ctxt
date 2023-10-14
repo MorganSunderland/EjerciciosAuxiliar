@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImprimirErroresCaja
+comment1.params=cadena
+comment1.target=ImprimirErroresCaja(java.lang.String)
+comment2.params=
+comment2.target=void\ calcularErrores()
+numComments=3

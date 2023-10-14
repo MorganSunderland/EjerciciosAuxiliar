@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumerosPrimos
+comment1.params=cantidadDeTerminos\ numeroVerificar
+comment1.target=NumerosPrimos(int,\ int)
+comment2.params=
+comment2.target=void\ calcularNTerminos()
+comment3.params=
+comment3.target=boolean\ Esprimo()
+numComments=4

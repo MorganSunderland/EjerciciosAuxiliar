@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EsNumeroPalindromo
+comment1.params=numero
+comment1.target=EsNumeroPalindromo(int)
+comment2.params=
+comment2.target=boolean\ EsPalindromo()
+numComments=3

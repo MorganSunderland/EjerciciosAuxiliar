@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FormulaCuadratica
+comment1.params=numeroA\ numeroB\ numeroC
+comment1.target=FormulaCuadratica(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ calcular()
+numComments=3

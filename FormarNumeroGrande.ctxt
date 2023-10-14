@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FormarNumeroGrande
+comment1.params=numero
+comment1.target=FormarNumeroGrande(int)
+comment2.params=
+comment2.target=int\ formarNumeroMasGrande()
+comment3.params=num
+comment3.target=int\ obtenerDigitoMax(int)
+comment4.params=num\ digito
+comment4.target=int\ quitarDigitoMax(int,\ int)
+numComments=5
